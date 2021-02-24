@@ -1,0 +1,39 @@
+{
+    "Adidas Ultraboost DNA Python":{
+        "name": "Adidas Python",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/e1d15d76b18c4fcd9450abed00c2cfa7_9366/Ultraboost_DNA_Black_Python_Shoes_Multi_FZ2733_01_standard.jpg",
+        "colour": "Black",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus purus eu lectus blandit, quis convallis augue commodo. Fusce ultrices iaculis risus, ac iaculis nunc rutrum non. Pellentesque semper sapien in quam blandit imperdiet. Proin luctus massa eget magna congue, eu aliquam orci blandit. Etiam justo lacus, tristique a commodo eget, fermentum eu nulla."
+    },
+    "Adidas NMD_R1 SHOES1":{
+        "name": "Adidas Ultraboost x3",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/4f81ffdf1dbf427e8f3cac6a01896825_9366/Ultraboost_4.0_DNA_Shoes_White_GZ9232_01_standard.jpg",
+        "colour": "Gray",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus purus eu lectus blandit, quis convallis augue commodo. Fusce ultrices iaculis risus, ac iaculis nunc rutrum non. Pellentesque semper sapien in quam blandit imperdiet. Proin luctus massa eget magna congue, eu aliquam orci blandit. Etiam justo lacus, tristique a commodo eget, fermentum eu nulla."
+    },
+    "Adidas NMD_R1 SHOES3":{
+        "name": "White Laced",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/49bd53d2f705481a8c0eabad0105ad42_9366/Lite_Racer_Adapt_3.0_Shoes_White_FX8803_01_standard.jpg",
+        "colour": "White",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus purus eu lectus blandit, quis convallis augue commodo. Fusce ultrices iaculis risus, ac iaculis nunc rutrum non. Pellentesque semper sapien in quam blandit imperdiet. Proin luctus massa eget magna congue, eu aliquam orci blandit. Etiam justo lacus, tristique a commodo eget, fermentum eu nulla."
+    },
+    "Adidas NMD_R1 SHOES4":{
+        "name": "Black Laced",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/96a5f085fedf4e678095abad01056711_9366/Lite_Racer_Adapt_3.0_Shoes_Black_FX8802_01_standard.jpg",
+        "colour": "Black",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus purus eu lectus blandit, quis convallis augue commodo. Fusce ultrices iaculis risus, ac iaculis nunc rutrum non. Pellentesque semper sapien in quam blandit imperdiet. Proin luctus massa eget magna congue, eu aliquam orci blandit. Etiam justo lacus, tristique a commodo eget, fermentum eu nulla."
+    },
+    "abc":{
+        "name": "Red Laced",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/f5eb6e69c809492ca09babad0106f8a5_9366/Lite_Racer_Adapt_3.0_Shoes_Red_FX8809_01_standard.jpg",
+        "colour": "Red",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus purus eu lectus blandit, quis convallis augue commodo. Fusce ultrices iaculis risus, ac iaculis nunc rutrum non. Pellentesque semper sapien in quam blandit imperdiet. Proin luctus massa eget magna congue, eu aliquam orci blandit. Etiam justo lacus, tristique a commodo eget, fermentum eu nulla."
+    },
+    "xyz":{
+        "name":"Ultraboost Cheetah",
+        "image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/6c8947e830b9481785c4abc300834bc4_9366/Ultraboost_DNA_Leopard_Shoes_Black_FZ2731_01_standard.jpg",
+        "colour":"Black - Cheetah",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus purus eu lectus blandit, quis convallis augue commodo. Fusce ultrices iaculis risus, ac iaculis nunc rutrum non. Pellentesque semper sapien in quam blandit imperdiet. Proin luctus massa eget magna congue, eu aliquam orci blandit. Etiam justo lacus, tristique a commodo eget, fermentum eu nulla."
+    }
+    
+}

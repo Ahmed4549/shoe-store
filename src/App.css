@@ -6,6 +6,7 @@
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 2px;
+  margin-top: 10px;
 }
 .heading___sub{
   background-image: linear-gradient(45deg,#0094a7, #575757);
@@ -29,4 +30,17 @@
 .prod___description >img:hover{
   transition: all .6s;
   transform: scale(1.2);
+}
+.home___image{
+  max-width: 100%;
+  padding: 10px;
+}
+.home___para{
+  padding: 10px;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  font-weight: 500;
+}
+#header{
+  margin-top: 15%;
 }
